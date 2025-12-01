@@ -28,7 +28,7 @@ Tenho interesse em oportunidades como Analista de Dados, Business Intelligence o
 
 ### 📚 Atualmente estudando
 - Python para análise de dados
-- 
+- SQL Server
 ---
 
 Fique à vontade para explorar os repositórios e entrar em contato se quiser trocar ideias sobre dados, BI ou People Analytics. 😊
